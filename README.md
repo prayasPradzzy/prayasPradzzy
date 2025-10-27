@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!-- First line: H1 with typing animation (SVG embedded as data URI) -->
-# <img alt="Typing heading" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='900' height='90' viewBox='0 0 900 90'><rect width='100%' height='100%' fill='transparent'/><defs><mask id='m'><rect x='0' y='0' width='0' height='100%' fill='white'><animate attributeName='width' from='0' to='880' dur='2.8s' fill='freeze' /></rect></mask></defs><text x='12' y='60' font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Helvetica Neue", monospace' font-size='48' fill='%23011117' mask='url(%23m)'>Hi, I'm Pradzzy</text><rect x='12' y='18' width='3' height='44' fill='%23011117'><animate attributeName='x' from='12' to='872' dur='2.8s' fill='freeze' /><animate attributeName='opacity' values='1;0;1' dur='0.7s' repeatCount='indefinite' begin='2.8s' /></rect></svg>" />
-
-<!-- Fallback plain text heading (in case SVG fails to render) -->
-# Hi, I'm Pradzzy
-
 <!--
 **prayasPradzzy/prayasPradzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
