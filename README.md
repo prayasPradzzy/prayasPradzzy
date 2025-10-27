@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hello+Pradzzy+Here...;Hello+Prayas+Here...)](https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hello+Pradzzy+Here...;Hello+Prayas+Here..." alt="Typing SVG" />
+
+</div>
+
 <!--
 **prayasPradzzy/prayasPradzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
