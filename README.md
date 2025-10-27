@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hello+Pradzzy+Here...;Hello+Prayas+Here..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hello+Pradzzy+Here...;Hello+Prayas+Here..." alt="Typing SVG" />
 
 </div>
 
----
+<hr style="width:70%;border:0.5px solid gray;opacity:0.3;">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+GitHub+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile+👋;I+build,+break,+and+fix+cool+things." alt="Typing SVG" />
 
 </div>
+
 
 <!--
 **prayasPradzzy/prayasPradzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
