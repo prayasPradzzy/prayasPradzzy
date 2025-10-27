@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hello+Pradzzy+Here...;Hello+Prayas+Here..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+Pradzzy+Here...;Hello+Prayas+Here..." alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile+👋;I+build,+break,+and+fix+cool+things." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 </div>
 
