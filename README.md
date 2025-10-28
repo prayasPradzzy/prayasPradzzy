@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hello+Pradzzy+Here...;Hello+Prayas+Here...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hey+Pradzzy+Here...;Hey+Prayas+Here...)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 <hr style="width:70%;border:0.5px solid gray;opacity:0.3;">
 
