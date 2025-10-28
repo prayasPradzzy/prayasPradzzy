@@ -4,7 +4,7 @@
 
 </div>
 
-<hr style="width:30%;border:0.5px solid gray;opacity:0.3;">
+<hr style="height:0.3px;border:none;background-color:#555;width:80%;opacity:0.3;">
 
 <div align="center">
 
