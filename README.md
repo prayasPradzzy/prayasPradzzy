@@ -4,7 +4,7 @@
 
 </div>
 
-<hr style="height:0.3px;border:none;background-color:#555;width:80%;opacity:0.3;">
+<hr style="height:0.3px;border:none;background-color:#555;width:65%;opacity:0.3;">
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<hr style="height:0.3px;border:none;background-color:#555;width:80%;opacity:0.3;">
+<hr style="height:0.3px;border:none;background-color:#555;width:65%;opacity:0.3;">
 
 CS Undergraduate Interested in software development, Artificial intelligence, Machine learning and Game Development.
 
